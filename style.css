@@ -1,0 +1,17 @@
+body {
+	background-color: teal !important;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.inptFild {
+	width: 400px;
+}
+
+.list-group-item:hover {
+	background-color: lightgray;
+	color: white !important;
+	transition: all 2s;
+}
